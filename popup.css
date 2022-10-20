@@ -5,3 +5,16 @@ body {
     width: 300px;
     text-align: center;
 }
+.btn {
+    width: 200px;
+    background-color: rgb(42, 82, 226);
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    padding:5px;
+    cursor: pointer;
+}
+.text-name {
+    text-align: right;
+    font-weight: bold;
+}
